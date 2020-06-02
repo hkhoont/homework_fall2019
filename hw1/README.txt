@@ -57,7 +57,7 @@ Note: This conda environment requires activating it every time you open a new te
 
 b) Option B:
 
-install dependencies locally, by running:
+install dependencies locally, by running:(I am doing this)
 $ pip install -r requirements.txt
 
 ##############################################
